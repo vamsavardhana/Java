@@ -1,0 +1,21 @@
+Server is up...
+Building the linked hash map :- 
+
+Total Price is19445, make=Ford, model=FordZTW, opset=[OptionSet [opt=[Option [name=automatic]], name=Transmission, size=0], OptionSet [opt=[Option [name=ABS]], name=Brakes, size=0], OptionSet [opt=[Option [name=selected]], name=Side Impact Air Bags, size=0], OptionSet [opt=[Option [name=selected]], name=Power Moonroof, size=0]]]
+Building the linked hash map :- 
+
+Total Price is19445, make=Ford, model=FordZTW, opset=[OptionSet [opt=[Option [name=automatic]], name=Transmission, size=0], OptionSet [opt=[Option [name=ABS]], name=Brakes, size=0], OptionSet [opt=[Option [name=selected]], name=Side Impact Air Bags, size=0], OptionSet [opt=[Option [name=selected]], name=Power Moonroof, size=0]]]
+Total Price is26100, make=Hyundai, model=Accent, opset=[OptionSet [opt=[Option [name=automatic]], name=Transmission, size=0], OptionSet [opt=[Option [name=ABS]], name=Brakes, size=0], OptionSet [opt=[Option [name=selected]], name=Side Impact Air Bags, size=0], OptionSet [opt=[Option [name=selected]], name=Power Moonroof, size=0]]]
+Building the linked hash map :- 
+
+Total Price is19445, make=Ford, model=FordZTW, opset=[OptionSet [opt=[Option [name=automatic]], name=Transmission, size=0], OptionSet [opt=[Option [name=ABS]], name=Brakes, size=0], OptionSet [opt=[Option [name=selected]], name=Side Impact Air Bags, size=0], OptionSet [opt=[Option [name=selected]], name=Power Moonroof, size=0]]]
+Total Price is26100, make=Hyundai, model=Accent, opset=[OptionSet [opt=[Option [name=automatic]], name=Transmission, size=0], OptionSet [opt=[Option [name=ABS]], name=Brakes, size=0], OptionSet [opt=[Option [name=selected]], name=Side Impact Air Bags, size=0], OptionSet [opt=[Option [name=selected]], name=Power Moonroof, size=0]]]
+Total Price is101000, make=Tesla, model=ModelS, opset=[OptionSet [opt=[Option [name=automatic]], name=Transmission, size=0], OptionSet [opt=[Option [name=ABS]], name=Brakes, size=0], OptionSet [opt=[Option [name=selected]], name=Side Impact Air Bags, size=0], OptionSet [opt=[Option [name=selected]], name=Power Moonroof, size=0]]]
+Total Price is19445, make=Ford, model=FordZTW, opset=[OptionSet [opt=[Option [name=automatic]], name=Transmission, size=0], OptionSet [opt=[Option [name=ABS]], name=Brakes, size=0], OptionSet [opt=[Option [name=selected]], name=Side Impact Air Bags, size=0], OptionSet [opt=[Option [name=selected]], name=Power Moonroof, size=0]]]
+
+Total Price is26100, make=Hyundai, model=Accent, opset=[OptionSet [opt=[Option [name=automatic]], name=Transmission, size=0], OptionSet [opt=[Option [name=ABS]], name=Brakes, size=0], OptionSet [opt=[Option [name=selected]], name=Side Impact Air Bags, size=0], OptionSet [opt=[Option [name=selected]], name=Power Moonroof, size=0]]]
+
+Total Price is101000, make=Tesla, model=ModelS, opset=[OptionSet [opt=[Option [name=automatic]], name=Transmission, size=0], OptionSet [opt=[Option [name=ABS]], name=Brakes, size=0], OptionSet [opt=[Option [name=selected]], name=Side Impact Air Bags, size=0], OptionSet [opt=[Option [name=selected]], name=Power Moonroof, size=0]]]
+
+The model chosen isModelS
+
