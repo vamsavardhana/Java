@@ -1,0 +1,5 @@
+A text file containing the output is stored in the main directory. The output file is also located in the main directory.
+The source folder contains three packages-
+1.The driver package which contains the driver class
+2. The Model package which contains the OptionSet class and the Automotive class
+3. The Utilities package that contains the util class

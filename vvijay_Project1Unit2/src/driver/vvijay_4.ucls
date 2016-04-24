@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="adapter.BuildAuto" project="ProjectUnit2Itn2" 
+    file="/ProjectUnit2Itn2/src/adapter/BuildAuto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="85" x="502" y="246"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="adapter.proxyAutomobile" project="ProjectUnit2Itn2" 
+    file="/ProjectUnit2Itn2/src/adapter/proxyAutomobile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="169" width="257" x="727" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="3" language="java" name="adapter.UpdateAuto" project="ProjectUnit2Itn2" 
+    file="/ProjectUnit2Itn2/src/adapter/UpdateAuto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="97" width="165" x="297" y="815"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="4" language="java" name="adapter.CreateAuto" project="ProjectUnit2Itn2" 
+    file="/ProjectUnit2Itn2/src/adapter/CreateAuto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="97" width="101" x="502" y="815"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="driver.Driver2" project="ProjectUnit2Itn2" 
+    file="/ProjectUnit2Itn2/src/driver/Driver2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="97" width="113" x="574" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="except.AutoException" project="ProjectUnit2Itn2" 
+    file="/ProjectUnit2Itn2/src/except/AutoException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="97" width="108" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="except.Fix1to100" project="ProjectUnit2Itn2" 
+    file="/ProjectUnit2Itn2/src/except/Fix1to100.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="92" x="189" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="8" language="java" name="except.AutoException.Except" project="ProjectUnit2Itn2" 
+    file="/ProjectUnit2Itn2/src/except/AutoException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="149" x="41" y="246"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="9" language="java" name="model.OptionSet.Option" project="ProjectUnit2Itn2" 
+    file="/ProjectUnit2Itn2/src/model/OptionSet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="223" width="127" x="761" y="1168"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="model.OptionSet" project="ProjectUnit2Itn2" 
+    file="/ProjectUnit2Itn2/src/model/OptionSet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="313" width="215" x="643" y="815"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="model.Automobile" project="ProjectUnit2Itn2" 
+    file="/ProjectUnit2Itn2/src/model/Automobile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="529" width="263" x="727" y="246"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="util.FileIO" project="ProjectUnit2Itn2" 
+    file="/ProjectUnit2Itn2/src/util/FileIO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="97" width="213" x="321" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="13">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <association id="14">    
+    <bendpoint x="888" y="815"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="15" name="choice"/>      
+      <multiplicity id="16" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="17">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <association id="18">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="19" name="a1"/>      
+      <multiplicity id="20" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="21">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <association id="22">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="23" name="opset"/>      
+      <multiplicity id="24" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <nesting id="26">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <association id="27">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="28" name="opt"/>      
+      <multiplicity id="29" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

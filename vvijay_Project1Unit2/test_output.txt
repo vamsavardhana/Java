@@ -1,0 +1,62 @@
+
+Enter the car name 
+
+Ford Fusion
+Come to the Fix source name method block in the exception class
+[Fort Knox Gold Clearcoat Metallic,  Liquid Grey Clearcoat Metallic,  Infra-Red Clearcoat,  Grabber Green Clearcoat Metallic,  Sangria Red Clearcoat Metallic,  French Blue Clearcoat Metallic,  Twilight Blue Clearcoat Metallic,  CD Silver Clearcoat Metallic,  Pitch Black Clearcoat,  Cloud 9 White Clearcoat]
+[ automatic,  manual]
+[ Standard,  ABS,  ABS with Advance Trac]
+[ present,  not present]
+[ present,  not present]
+The cost of the vehicle is21015
+Enter the car name 
+
+Nissan Auo
+Come to the Fix source name method block in the exception class
+[Fort Knox Gold Clearcoat Metallic,  Liquid Grey Clearcoat Metallic,  Infra-Red Clearcoat,  Grabber Green Clearcoat Metallic,  Sangria Red Clearcoat Metallic,  French Blue Clearcoat Metallic,  Twilight Blue Clearcoat Metallic,  CD Silver Clearcoat Metallic,  Pitch Black Clearcoat,  Cloud 9 White Clearcoat]
+[ automatic,  manual]
+[ Standard,  ABS,  ABS with Advance Trac]
+[ present,  not present]
+[ present,  not present]
+Enter the car name 
+
+Ambassador
+Come to the Fix source name method block in the exception class
+[Fort Knox Gold Clearcoat Metallic,  Liquid Grey Clearcoat Metallic,  Infra-Red Clearcoat,  Grabber Green Clearcoat Metallic,  Sangria Red Clearcoat Metallic,  French Blue Clearcoat Metallic,  Twilight Blue Clearcoat Metallic,  CD Silver Clearcoat Metallic,  Pitch Black Clearcoat,  Cloud 9 White Clearcoat]
+[ automatic,  manual]
+[ Standard,  ABS,  ABS with Advance Trac]
+[ present,  not present]
+[ present,  not present]
+Enter the car name 
+
+Hyundai
+Come to the Fix source name method block in the exception class
+[Fort Knox Gold Clearcoat Metallic,  Liquid Grey Clearcoat Metallic,  Infra-Red Clearcoat,  Grabber Green Clearcoat Metallic,  Sangria Red Clearcoat Metallic,  French Blue Clearcoat Metallic,  Twilight Blue Clearcoat Metallic,  CD Silver Clearcoat Metallic,  Pitch Black Clearcoat,  Cloud 9 White Clearcoat]
+[ automatic,  manual]
+[ Standard,  ABS,  ABS with Advance Trac]
+[ present,  not present]
+[ present,  not present]
+
+
+UPdating option set name.......
+
+
+UPdating option set name.......
+
+
+UPdating option set name.......
+
+Automobile [name=Hyundai, basePrice=100, make=null, model=null, opset=[OptionSet [opt=[Option [name=Fort Knox Gold Clearcoat Metallic, price=0.0], Option [name= Liquid Grey Clearcoat Metallic, price=0.0], Option [name= Infra-Red Clearcoat, price=0.0], Option [name= Grabber Green Clearcoat Metallic, price=0.0], Option [name= Sangria Red Clearcoat Metallic, price=0.0], Option [name= French Blue Clearcoat Metallic, price=0.0], Option [name= Twilight Blue Clearcoat Metallic, price=0.0], Option [name= CD Silver Clearcoat Metallic, price=0.0], Option [name= Pitch Black Clearcoat, price=0.0], Option [name= Cloud 9 White Clearcoat, price=0.0]], name=ColoringSTUFFFF, size=0], OptionSet [opt=[Option [name= automatic, price=0.0], Option [name= manual, price=-815.0]], name=Transmission, size=0], OptionSet [opt=[Option [name= Standard, price=0.0], Option [name= ABS, price=400.0], Option [name= ABS with Advance Trac, price=1625.0]], name=Brakes/Traction Control, size=0], OptionSet [opt=[Option [name= present, price=0.0], Option [name= not present, price=350.0]], name=Side Impact Air Bags, size=0], OptionSet [opt=[Option [name= present, price=0.0], Option [name= not present, price=595.0]], name=Power Moonroof, size=0]]]
+
+UPdating option set price.......
+
+
+UPdating option set price.......
+
+
+UPdating option set price.......
+
+The optionset has0index
+
+Automobile [name=Hyundai, basePrice=100, make=null, model=null, opset=[OptionSet [opt=[Option [name=Fort Knox Gold Clearcoat Metallic, price=100.0], Option [name= Liquid Grey Clearcoat Metallic, price=0.0], Option [name= Infra-Red Clearcoat, price=0.0], Option [name= Grabber Green Clearcoat Metallic, price=0.0], Option [name= Sangria Red Clearcoat Metallic, price=0.0], Option [name= French Blue Clearcoat Metallic, price=0.0], Option [name= Twilight Blue Clearcoat Metallic, price=0.0], Option [name= CD Silver Clearcoat Metallic, price=0.0], Option [name= Pitch Black Clearcoat, price=0.0], Option [name= Cloud 9 White Clearcoat, price=0.0]], name=ColoringSTUFFFF, size=0], OptionSet [opt=[Option [name= automatic, price=0.0], Option [name= manual, price=-815.0]], name=Transmission, size=0], OptionSet [opt=[Option [name= Standard, price=0.0], Option [name= ABS, price=400.0], Option [name= ABS with Advance Trac, price=1625.0]], name=Brakes/Traction Control, size=0], OptionSet [opt=[Option [name= present, price=0.0], Option [name= not present, price=350.0]], name=Side Impact Air Bags, size=0], OptionSet [opt=[Option [name= present, price=0.0], Option [name= not present, price=595.0]], name=Power Moonroof, size=0]]]
+
